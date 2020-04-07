@@ -52,7 +52,7 @@ contribution to Flask, see the `contributing guidelines`_.
 .. _contributing guidelines: https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst
 
 
-Donate
+Donatedddafa a
 ------
 
 The Pallets organization develops and supports Flask and the libraries
